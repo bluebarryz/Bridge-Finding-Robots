@@ -1,25 +1,26 @@
 # Bridge-Finding-Robots
 
 <h1> The Problem (credit: Gr. 12 CS class)</h1>
-<p>Problem: Let's say you were a robot trying to find a bridge in a dark forest at night. You can only see a tiny bit ahead of you, and you know that the bridge is either straight east or straight west relative to your current position.</p>
+<p>Problem: Let's say you were a robot trying to find a bridge at the darkest time of the night. You can only see a tiny bit ahead of you, and you know that the bridge is either straight east or straight west relative to your current position.</p>
 
 <p>How do you go about finding the bridge? Here are two ways.</p>
 
 <h2> Way 1: Constant growth in both directions </h2>
-
 <img src="readme/cg.jpg" alt="cg" width="960" height="432">
+<p> Using this method, or <i>algorithm</i>, you would go 1 step east, then 2 steps west, then 3 steps east, then 4 steps west etc until you have reached the bridge. </p>
 
 <h2> Way 2: Exponential growth in both directions </h2>
-
 <img src="readme/exp.jpg" alt="exp" width="960" height="432">
+<p> Using this method, or <i>algorithm</i>, you would go 1 step east, then 2 steps west, then 4 steps east, then 8 steps west etc until you have reached the bridge. </p>
 
-<h2>The program</h2>
-<p> <i>Bridge-Finding Robots</i> Provides a side by side comparison of the two methods. It demonstrates <i>algorithm analysis</i> in a visual way.
-  
+<h2>Which way is better?</h2>
+<p> <i>Bridge-Finding Robots</i> provides a side by side comparison of the two ways, or <i>algorithms</i>. It demonstrates <i>algorithm analysis</i> in a visual way.
+ 
+ 
 <img src="readme/program.png" alt="program" width="1200" height="600">
   The top robot uses the Constant Growth algorithm while the bottom robot uses the Exponential Growth algorithm.  </p>
 
 <h2>Features</h2>
-<p>The program enables you to set each robot's starting distance from the bridge, walking speed, and step size. You can also use the <i>Sync</i> feature to sync the robots' arrivals</p>
+<p>The program enables you to set each robot's starting distance from the bridge, walking speed, and step size. You can also use the <i>Sync</i> feature to sync the robots' arrivals.</p>
 <img src="readme/gui.png" alt="gui" width="600" height="358">
   
