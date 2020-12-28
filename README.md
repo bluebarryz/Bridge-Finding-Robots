@@ -13,11 +13,13 @@
 
 <img src="readme/exp.jpg" alt="exp" width="960" height="432">
 
-<p> <i>Bridge-Finding Robots</i> Provides a side by side comparison of the two methods. It demonstrates <i>algorithm analysis</i> in a visually appealing way.
+<h2>The program</h2>
+<p> <i>Bridge-Finding Robots</i> Provides a side by side comparison of the two methods. It demonstrates <i>algorithm analysis</i> in a visual way.
   
 <img src="readme/program.png" alt="program" width="1200" height="600">
   The top robot uses the Constant Growth algorithm while the bottom robot uses the Exponential Growth algorithm.  </p>
 
 <h2>Features</h2>
-<p>The program enables you to </p>
+<p>The program enables you to set each robot's starting distance from the bridge, walking speed, and step size. You can also use the <i>Sync</i> feature to sync the robots' arrivals</p>
+<img src="readme/gui.jpg" alt="gui" width="288" height="172">
   
