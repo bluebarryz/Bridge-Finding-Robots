@@ -23,4 +23,7 @@
 <h2>Features</h2>
 <p>The program enables you to set each robot's starting distance from the bridge, walking speed, and step size. You can also use the <i>Sync</i> feature to sync the robots' arrivals.</p>
 <img src="readme/gui.png" alt="gui" width="600" height="358">
+
+<h2>Demo</h2>
+<img src="readme/Bridge-Finding Robots.gif" alt="gif" width="1200" height="600">
   
