@@ -9,4 +9,5 @@
 
 <img src="readme/cg.jpg" alt="cg" width="960" height="432">
 
+<h2> Way 2: Exponential growth in both directions </h2>
 
