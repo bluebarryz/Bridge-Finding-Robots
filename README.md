@@ -7,6 +7,6 @@
 
 <h1> Way 1: Constant growth in both directions </h1>
 
-<img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
+<img src="readme/cg.jpg" alt="cg" width="960" height="432">
 
 
