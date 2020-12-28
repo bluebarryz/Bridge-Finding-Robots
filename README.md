@@ -1,5 +1,5 @@
 # Bridge-Finding-Robots
-
+<p> <i>Bridge-Finding Robots</i> compares to algorithms for solving a cool thinking problem. </p>
 <h1> The Problem (credit: Gr. 12 CS class)</h1>
 <p>Problem: Let's say you were a robot trying to find a bridge at the darkest time of the night. You can only see a tiny bit ahead of you, and you know that the bridge is either straight east or straight west relative to your current position.</p>
 
