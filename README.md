@@ -1,12 +1,12 @@
 # Bridge-Finding-Robots
 
 <h1> The Problem (credit: Gr. 12 CS class)</h1>
-Problem: Let's say you were a robot trying to find a bridge in a dark forest at night. You can only see a tiny bit ahead of you, and you know that the bridge is either straight east or straight west relative to your current position.
+<p>Problem: Let's say you were a robot trying to find a bridge in a dark forest at night. You can only see a tiny bit ahead of you, and you know that the bridge is either straight east or straight west relative to your current position.</p>
 
-How do you go about finding the bridge? Here are two ways.
+<p>How do you go about finding the bridge? Here are two ways.</p>
 
 <h1> Way 1: Constant growth in both directions </h1>
 
-
+<img src="html5.gif" alt="HTML5 Icon" width="128" height="128">
 
 
