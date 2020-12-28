@@ -12,3 +12,12 @@
 <h2> Way 2: Exponential growth in both directions </h2>
 
 <img src="readme/exp.jpg" alt="exp" width="960" height="432">
+
+<p> <i>Bridge-Finding Robots</i> Provides a side by side comparison of the two methods.
+  
+
+  One of the robots uses the Constant Growth algorithm while the other It demonstrates <i>algorithm analysis</i> in a visually appealing and captivating way. </p>
+
+<h2>Features</h2>
+<p>The program enables you to </p>
+  
