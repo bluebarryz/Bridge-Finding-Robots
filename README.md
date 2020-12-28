@@ -1,7 +1,7 @@
 # Bridge-Finding-Robots
-<p> <i>Bridge-Finding Robots</i> compares to algorithms for solving a cool thinking problem. </p>
+<p> <i>Bridge-Finding Robots</i> compares two algorithms for solving a cool thinking problem. </p>
 <h1> The Problem (credit: Gr. 12 CS class)</h1>
-<p>Problem: Let's say you were a robot trying to find a bridge at the darkest time of the night. You can only see a tiny bit ahead of you, and you know that the bridge is either straight east or straight west relative to your current position.</p>
+<p>Problem: Let's say you were a robot trying to find a bridge at night. You can only see a tiny bit ahead of you, and you know that the bridge is either straight east or straight west of your current position.</p>
 
 <p>How do you go about finding the bridge? Here are two ways.</p>
 
@@ -11,10 +11,10 @@
 
 <h2> Way 2: Exponential growth in both directions </h2>
 <img src="readme/exp.jpg" alt="exp" width="960" height="432">
-<p> Using this method, or <i>algorithm</i>, you would go 1 step east, then 2 steps west, then 4 steps east, then 8 steps west etc until you have reached the bridge. </p>
+<p> Using this algorithm, you would go 1 step east, then 2 steps west, then 4 steps east, then 8 steps west etc until you have reached the bridge. </p>
 
 <h2>Which way is better?</h2>
-<p> <i>Bridge-Finding Robots</i> provides a side by side comparison of the two ways, or <i>algorithms</i>. It demonstrates <i>algorithm analysis</i> in a visual way.
+<p> <i>Bridge-Finding Robots</i> provides a side by side comparison of the two algorithms. It demonstrates <i>algorithm analysis</i> visually.
  
  
 <img src="readme/program.png" alt="program" width="1200" height="600">
@@ -26,4 +26,5 @@
 
 <h2>Demo</h2>
 <img src="readme/Bridge-Finding Robots.gif" alt="gif" width="800" height="450">
+<p> As you can see, in the first run, the top robot embarasses the bottom robot. In the second run, the <i>Sync</i> feature is activated, which raises the speed of the bottom robot to make up for its inefficient algorithm.
   
