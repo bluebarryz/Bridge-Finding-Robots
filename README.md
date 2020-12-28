@@ -25,5 +25,5 @@
 <img src="readme/gui.png" alt="gui" width="600" height="358">
 
 <h2>Demo</h2>
-<img src="readme/Bridge-Finding Robots.gif" alt="gif" width="1200" height="600">
+<img src="readme/Bridge-Finding Robots.gif" alt="gif" width="800" height="450">
   
