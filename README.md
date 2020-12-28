@@ -13,10 +13,10 @@
 
 <img src="readme/exp.jpg" alt="exp" width="960" height="432">
 
-<p> <i>Bridge-Finding Robots</i> Provides a side by side comparison of the two methods.
+<p> <i>Bridge-Finding Robots</i> Provides a side by side comparison of the two methods. It demonstrates <i>algorithm analysis</i> in a visually appealing way.
   
-
-  One of the robots uses the Constant Growth algorithm while the other It demonstrates <i>algorithm analysis</i> in a visually appealing and captivating way. </p>
+<img src="readme/program.png" alt="program" width="1200" height="600">
+  The top robot uses the Constant Growth algorithm while the bottom robot uses the Exponential Growth algorithm.  </p>
 
 <h2>Features</h2>
 <p>The program enables you to </p>
